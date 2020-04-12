@@ -1,4 +1,3 @@
-
 //Abstract Class
 abstract class Animal {
     //Abstract Method makes the program not compile unless the other subclasses implement the method

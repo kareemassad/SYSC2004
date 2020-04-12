@@ -25,9 +25,6 @@ public class Learning {
     public static void main(String[] args) {
         //create learning object called myObj
         Learning myObj = new Learning();
-        /*
-        CALL METHODS
-
         System.out.println("y = " + y);
         moreYOne();
         System.out.println("y = " + y);
@@ -35,7 +32,7 @@ public class Learning {
         System.out.println("x = " + myObj.x);
         moreXOne();
         System.out.println("x = " + myObj.x);
-        */
+        
         // int + int + string in java
         // System.out.println(5 + 5 + " wtf int + int + string");
     }
